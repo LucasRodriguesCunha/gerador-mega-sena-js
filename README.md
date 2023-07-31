@@ -1,0 +1,2 @@
+# gerador-mega-sena-js
+ 
